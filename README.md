@@ -1,54 +1,97 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/kelvin-ngacha-299a42ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/kelvinNgacha254/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=kelvin0722&style=flat-square&color=blue" alt=""/>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
----
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Waving developer animation" />
 
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nairobi, Kenya.
+  <h1>Hey there, I'm Kelvin Ngacha 👋</h1>
 
-- :telescope: I’m working as a Full Stack Software Engineer and contributing to frontend and backend for building web applications.
+  <p>
+    <strong>Senior Software Engineer &amp; Tech Lead</strong><br />
+    Building fintech, mobile, and web products from Nairobi, Kenya.
+  </p>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kelvin-ngacha-299a42ba/)
+  <p>
+    <a href="https://www.linkedin.com/in/kelvin-ngacha-299a42ba/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with me on LinkedIn" />
+    </a>
+    <a href="https://github.com/kelvin0722">
+      <img src="https://img.shields.io/badge/GitHub-kelvin0722-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub profile" />
+    </a>
+    <a href="https://twitter.com/kelvinNgacha254/">
+      <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Follow me on Twitter" />
+    </a>
+  </p>
 
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="POSTGRESQL"  alt="POSTGRESQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://komarev.com/ghpvc/?username=kelvin0722&style=flat-square&color=blue" alt="Profile views" />
 </div>
 
 ---
 
-### :fire: My Stats :
+## 👨🏾‍💻 About me
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kelvin0722&theme=dark&background=000000)](https://git.io/streak-stats)
+I’m a Senior Software Engineer and Tech Lead focused on building reliable, user-centered products across fintech, mobile, and web platforms. I enjoy working across the full product lifecycle—from shaping ideas and designing systems to shipping production software and supporting users.
+
+- 🚀 CTO and Founding Engineer at **BillBuddys**, a fintech platform for group bill splitting and payment collection.
+- 🧩 Experienced in frontend, backend, mobile development, databases, queues, and cloud infrastructure.
+- 💳 Passionate about digital payments, M-Pesa integrations, and practical technology for African markets.
+- 🛠️ I enjoy building scalable systems with strong user experiences and clear product value.
+- 📍 Based in Nairobi, Kenya.
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/kelvin-ngacha-299a42ba/).
+
+## 🧰 Languages and tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,nodejs,rust,ruby,python,redux,materialui,html,css,postgres,mysql,redis,aws,git" alt="React, React Native, TypeScript, JavaScript, Node.js, Rust, Ruby, Python, Redux, Material UI, HTML, CSS, PostgreSQL, MySQL, Redis, AWS, and Git" />
+</div>
+
+## 🌟 Featured work
+
+### BillBuddys
+
+A mobile-first fintech platform for group bill splitting and payment collection in Kenya.
+
+- **Role:** CTO and Founding Engineer
+- **Mobile:** React Native, Expo, Zustand
+- **Backend:** Node.js, Fastify, tRPC
+- **Data:** PostgreSQL, Drizzle ORM
+- **Infrastructure:** Redis, BullMQ
+- **Payments:** M-Pesa Daraja integration
+
+The platform supports group bills, fundraising, QR-code invitations, anonymous contributors, SMS notifications, and payment-processing queues.
+
+## 🚀 Recent GitHub activity
+
+- **[GrammarMe](https://github.com/kelvin0722/GrammarMe)** — Swift project with recent development on `main`.
+- **[WeatherForecast](https://github.com/kelvin0722/WeatherForecast)** — Swift weather application project.
+- **[knit-collections-service](https://github.com/kelvin0722/knit-collections-service)** — TypeScript service project.
+- **[github_prs](https://github.com/kelvin0722/github_prs)** — Rust tool for notifying when pull requests are ready for review.
+- **[myshop](https://github.com/kelvin0722/myshop)** — Next.js and Tailwind CSS e-commerce prototype.
+
+See my [full GitHub activity](https://github.com/kelvin0722?tab=activity) and [repositories](https://github.com/kelvin0722?tab=repositories).
+
+## 📜 Certifications
+
+- GraphQL Essential Training — LinkedIn
+- React Certification — HackerRank
+- Application Security Analyst — IBM
+- Application Security Specialist with IBM Security AppScan — IBM
+
+## 🌍 Languages
+
+- English
+- Swahili
+
+## 📊 GitHub stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kelvin0722&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="165" alt="Kelvin's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin0722&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Kelvin's most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kelvin0722&theme=tokyonight&hide_border=true" alt="Kelvin's GitHub contribution streak" />
+</div>
+
+---
+
+<div align="center">
+  <i>Thanks for stopping by — feel free to connect or collaborate!</i>
 </div>
