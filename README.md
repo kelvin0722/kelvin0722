@@ -82,12 +82,15 @@ See my [full GitHub activity](https://github.com/kelvin0722?tab=activity) and [r
 ## 📊 GitHub stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelvin0722&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&cache_seconds=86400" height="165" alt="Kelvin's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin0722&layout=compact&hide_border=true&theme=tokyonight&cache_seconds=86400" height="165" alt="Kelvin's most used languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kelvin0722&theme=tokyonight&hide_border=true" alt="Kelvin's GitHub contribution streak" />
+  <a href="https://github.com/kelvin0722">Overview</a>
+  ·
+  <a href="https://github.com/kelvin0722?tab=repositories">Repositories</a>
+  ·
+  <a href="https://github.com/kelvin0722?tab=stars">Stars</a>
+  ·
+  <a href="https://github.com/kelvin0722?tab=followers">Followers</a>
+  ·
+  <a href="https://github.com/kelvin0722?tab=activity">Activity</a>
 </div>
 
 ---
